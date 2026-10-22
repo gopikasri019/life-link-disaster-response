@@ -1,0 +1,6 @@
+{
+  "name": "LIFE-LINK Disaster Response",
+  "description": "AI-Powered Disaster Response & Community Resilience Platform by Easwari Engineering College Dept of AI & Data Science",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
